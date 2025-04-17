@@ -1,0 +1,83 @@
+<h1 align="center">Hey 👋, I'm Hammad Sandhu</h1>
+<h3 align="center">💻 Full-Stack Developer | MERN • NestJS • Python | Clean Code Enthusiast 🚀</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Full-Stack+Web+Developer;MERN+%7C+NestJS+%7C+Python;Clean+Code+%26+Creative+Solutions;Building+Better+Web+Experiences" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎯 Full-Stack Developer focused on building performant, scalable, and beautiful web applications  
+- 🧠 Passionate about **MERN stack**, modern JavaScript frameworks, and backend APIs with **NestJS**
+- 🐍 Love writing automation and backend logic in **Python**
+- 💼 Currently diving deeper into **DevOps**, **Next.js**, and system design  
+- ☕ Coffee-powered & code-obsessed — let’s build something amazing together!
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🌐 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+#### 💻 Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+#### 🔧 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+#### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammadSandhu&show_icons=true&theme=github_dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammadSandhu&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammadSandhu&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:hammadsandhuu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-hammad" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mrhammad.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💻 Keep building. Keep learning. Keep growing. Let's connect and create something awesome! 🚀
+</p>
