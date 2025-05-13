@@ -10,9 +10,9 @@
 ### 🧑‍💻 About Me
 
 - 🎯 Full-Stack Developer focused on building performant, scalable, and beautiful web applications  
-- 🧠 Passionate about **MERN stack**, modern JavaScript frameworks, and backend APIs with **NestJS**
+- 🧠 Passionate about **MERN stack**, modern JavaScript frameworks, and backend APIs with **Python** **NestJS** & **Node**
 - 🐍 Love writing automation and backend logic in **Python**
-- 💼 Currently diving deeper into **DevOps**, **Next.js**, and system design  
+- 💼 Currently diving deeper into **Python**, **Nest js**, and system design  
 - ☕ Coffee-powered & code-obsessed — let’s build something amazing together!
 
 ---
